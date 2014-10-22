@@ -1,0 +1,5 @@
+C02D  Text3D
+Text3D.DLL
+
+OS2.LIB C2.LIB
+Text3D.Def

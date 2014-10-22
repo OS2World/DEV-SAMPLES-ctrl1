@@ -1,0 +1,8 @@
+file Text3D.Obj
+name Text3D.Dll
+option modname=Text3D
+format os2 dll initinstance terminstance
+segment class 'code'
+segment class 'data' nonshared
+option manyautodata
+option protmode

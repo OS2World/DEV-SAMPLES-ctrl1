@@ -1,0 +1,15 @@
+
+LIBRARY         Text3D INITINSTANCE TERMINSTANCE 
+
+DESCRIPTION	'3D Text Control - 32-Bit Version'
+
+CODE	        MOVEABLE
+DATA	        MULTIPLE NONSHARED MOVEABLE
+
+PROTMODE
+
+EXETYPE		OS2
+
+EXPORTS		Text3DRegister @ 1
+			Text3DQuery @ 2
+			Text3DStyles @ 3
